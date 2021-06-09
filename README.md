@@ -14,12 +14,15 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Why FAAY?](#why-faay)
   * [Built With](#built-with)
   * [Meet the Team](#meet-the-team)
-  * [Keeping up with the Team](#keeping-up-with-the-team)
-* [Demo](#demo)
+* Demo
+  * [App Demo](#app-demo)
+  * [Website Demo](#website-demo)
 * [Poster](#poster)
+
+
+
 
 
 
@@ -29,20 +32,17 @@
 ## About The Project
 
 
-A quick and efficient hands-off management system that uses facial recognition software to keep track of employees’ attendance.
+A digital platform created by AUB's Nature Conservation Center; designed to enable citizen-driven rapid water quality assessment and aggregation of institutionally locked water quality data while providing concerned publics with digestible data visuals and means for community science and collective environmental activism.
 
-### Why FAAY?
-* Quick and efficient management system. :zap:
-* Using cutting edge facial recognition technology.:video_camera:
-* Easy to use. :smile: 
-* High level control over employee attendance. :calendar:
-* Provides easy access to your attendance data. :file_folder:
 
 ## Poster
 [TTW_Poster.pdf](https://github.com/AdamHelal/Test-The-Water/files/6623022/TTW_Poster.pdf)
 
-## Demo
+## App Demo
+https://user-images.githubusercontent.com/49691891/121339109-d423fa80-c926-11eb-97ff-dd1a481d0f6b.mp4
 
+## Website Demo
+https://user-images.githubusercontent.com/49691891/121339122-d71eeb00-c926-11eb-9ef0-f10dc2cc5f9b.mp4
 
 
 
