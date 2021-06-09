@@ -43,7 +43,6 @@ A quick and efficient hands-off management system that uses facial recognition s
 ## Demo
 
 
-https://user-images.githubusercontent.com/49691891/121227633-747d0f00-c894-11eb-881e-989fa89c8fa2.mp4
 
 
 
