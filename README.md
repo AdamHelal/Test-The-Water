@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://github.com/AdamHelal/FAAY-Code/blob/master/Images/logo.png" alt="Logo" width="200" height="200">
+    <img src="https://user-images.githubusercontent.com/49691891/121341726-9f657280-c929-11eb-8dd4-84e06cc53399.png" alt="Logo" width="200" height="200">
   </a>
 
   <h2 align="center">
