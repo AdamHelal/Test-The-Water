@@ -39,6 +39,7 @@ A quick and efficient hands-off management system that uses facial recognition s
 * Provides easy access to your attendance data. :file_folder:
 
 ## Poster
+[TTW_Poster.pdf](https://github.com/AdamHelal/Test-The-Water/files/6623022/TTW_Poster.pdf)
 
 ## Demo
 
